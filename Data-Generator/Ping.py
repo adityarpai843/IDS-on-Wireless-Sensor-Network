@@ -3,8 +3,8 @@ import csv
 
 class Ping:
 
-    count = '1'
-    time = '1'
+    count = '200'
+    time = '5'
 
     def __init__(self,count='1',time='1'):
         
