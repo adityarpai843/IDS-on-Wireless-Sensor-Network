@@ -8,5 +8,7 @@
 <li><b><u>Simulations:</u></b>It consists of cooja simulation files</li> <br> 
 <li><b><u>Firmware:</u></b>Firmware files of sky mote sensor</li> <br> 
 </ol>
-<h3>Detailed Description on Project</h3>
+<h4>For running data generator program python 3.7 is required which can be only installed from the source</h4>
+<h5>It should be installed in the contiki os vm</h5>  
+<h5><a href="https://tecadmin.net/install-python-3-7-on-ubuntu-linuxmint/">Python installation instructions</a></h5>  
   
